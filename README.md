@@ -1,4 +1,5 @@
-# Web and Games
+# Web and Games 
+<img align="right" alt="Image" src="https://github.com/EngineerMarcosAlcantara/web-and-games/assets/143047632/6ebbb9b3-303c-48ef-a9ec-1cc9ba5c1ea5)" width="100" height="100" /> 
 In this repository I will be showing some web projects that I developed, both to learn and to gain more knowledge about these technologies!
 
 ## Technologies used:
